@@ -12,7 +12,6 @@ int main() {
 
     vector<int> zaehler(11);
 
-
     ifstream fin("datensumme.txt");
     int n_i;
     for(int i = 0 ; i < 234 ; ++i) {
